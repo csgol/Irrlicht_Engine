@@ -71,7 +71,3 @@
 <br/>
 
 ---
-
-# Pour yourself another and lets begin this journey into the dungeons!!!! 
-  
- ---                                     # Irrlicht_Engine
